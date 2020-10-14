@@ -6,15 +6,14 @@ This is a web-based interface written in HTML and designed with CSS and BOOTSTRA
 [Nicholas Ndiki](https://github.com/NdiklasTheCoder)
 
 # **Technologies used**
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 
- # Screenshot of Webpage
- ![](XXXXXXXXXXXXXX)
-  
-## Link to Webpage
-XXXXXXXXXXXXXXXXXXXXXX
-    
-  ## License info
+# **Demo**
+Here is a working live demo : xxxxxxx
+
+
+# **Licence**
 MIT License
 
-Copyright (c) 2020 RLRMT
+Copyright (c) 2020 **RLRMT**
